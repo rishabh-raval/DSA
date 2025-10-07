@@ -13,29 +13,6 @@ Each folder contains categorized problems with clear explanations and optimized 
 
 ---
 
-## 📊 Overall Progress  
-![Overall Progress](https://progress-bar.dev/40/?title=Overall%20Progress)
-
-| Topic | Progress |
-|-------|-----------|
-| Arrays | ![Progress](https://progress-bar.dev/70/?title=completed) |
-| Recursion | ![Progress](https://progress-bar.dev/40/?title=ongoing) |
-| Sorting & Searching | ![Progress](https://progress-bar.dev/60/?title=in-progress) |
-| Linked List | ![Progress](https://progress-bar.dev/30/?title=started) |
-| Stack & Queue | ![Progress](https://progress-bar.dev/20/?title=upcoming) |
-| Trees | ![Progress](https://progress-bar.dev/0/?title=upcoming) |
-| Graphs | ![Progress](https://progress-bar.dev/0/?title=upcoming) |
-| Dynamic Programming | ![Progress](https://progress-bar.dev/0/?title=upcoming) |
-
----
-
-## 📅 Daily Commit Tracker  
-Stay consistent — one commit a day keeps the backlog away 🚀  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishabh-raval&theme=default&hide_border=true)
-
----
-
 ## ⚙️ Tech Stack  
 - **Language:** C++  
 - **IDE:** Visual Studio Code  
@@ -51,13 +28,8 @@ Stay consistent — one commit a day keeps the backlog away 🚀
 
 ---
 
-## ✨ Philosophy  
-> *"Small progress each day adds up to big results."*  
-
----
-
 ## 🔗 Connect  
-- 🧑‍💻 [GitHub](https://github.com/rishabh-raval)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-raval-673293228)  
+- [GitHub](https://github.com/rishabh-raval)  
+- [LinkedIn](https://www.linkedin.com/in/rishabh-raval-673293228)  
 
 ---
